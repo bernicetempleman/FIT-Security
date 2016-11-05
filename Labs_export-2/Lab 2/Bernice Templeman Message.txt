@@ -1,0 +1,13 @@
+Dear Bernice,
+
+Congratulations!!! You have successfully decrypted this message using PGP encryption technology. 
+
+With this new found knowledge, you are now a step closer to becoming an IT security professional.  
+
+Your team's special password is: Watermelon
+
+Please copy and paste this entire message into your Lab #2 submission document.
+
+Thank you,
+-Dr. Lanman
+ 
